@@ -1,0 +1,13 @@
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\bin\Debug\ExeDataGridandNavBinding.exe.config
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\bin\Debug\ExeDataGridandNavBinding.exe
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\bin\Debug\ExeDataGridandNavBinding.pdb
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.csproj.AssemblyReference.cache
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.Form1.resources
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.Properties.Resources.resources
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.csproj.GenerateResource.cache
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.csproj.CoreCompileInputs.cache
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.exe
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.pdb
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.Form2.resources
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.Form3.resources
+C:\Users\JAYA\source\repos\ExeDataGridandNavBinding\ExeDataGridandNavBinding\obj\Debug\ExeDataGridandNavBinding.Form4.resources
